@@ -1,5 +1,3 @@
-package damageGivenAChanceToHit;
-
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.nio.charset.StandardCharsets;
