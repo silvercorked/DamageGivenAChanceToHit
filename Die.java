@@ -1,5 +1,3 @@
-package damageGivenAChanceToHit;
-
 import java.util.Random;
 
 /**
